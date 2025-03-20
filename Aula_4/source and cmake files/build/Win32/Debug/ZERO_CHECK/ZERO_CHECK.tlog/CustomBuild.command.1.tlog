@@ -1,0 +1,10 @@
+^C:\USERS\GUILHERME PINHO\ONEDRIVE - UNIVERSIDADE DO MINHO\AMBIENTE DE TRABALHO\UNIVERSIDADE\CG\AULA_4\SOURCE AND CMAKE FILES\BUILD\CMAKEFILES\FF0053F0931A344C89F02464816B90A3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Guilherme Pinho/OneDrive - Universidade do Minho/Ambiente de Trabalho/Universidade/CG/Aula_4/source and cmake files" "-BC:/Users/Guilherme Pinho/OneDrive - Universidade do Minho/Ambiente de Trabalho/Universidade/CG/Aula_4/source and cmake files/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Guilherme Pinho/OneDrive - Universidade do Minho/Ambiente de Trabalho/Universidade/CG/Aula_4/source and cmake files/build/class5.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
