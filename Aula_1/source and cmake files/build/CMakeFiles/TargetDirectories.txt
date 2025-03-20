@@ -1,0 +1,3 @@
+C:/Users/Guilherme Pinho/OneDrive - Universidade do Minho/Ambiente de Trabalho/Universidade/CG/Aula_1/source and cmake files/build/CMakeFiles/class2.dir
+C:/Users/Guilherme Pinho/OneDrive - Universidade do Minho/Ambiente de Trabalho/Universidade/CG/Aula_1/source and cmake files/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Guilherme Pinho/OneDrive - Universidade do Minho/Ambiente de Trabalho/Universidade/CG/Aula_1/source and cmake files/build/CMakeFiles/ZERO_CHECK.dir
